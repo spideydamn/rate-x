@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="images">
+    <file>assets/exchangeWhite.png</file>
+    <file>assets/instagram.png</file>
+    <file>assets/exchangeBlack.png</file>
+    <file>assets/telegram.png</file>
+    <file>assets/vk.png</file>
+    <file>assets/down.png</file>
+    <file>assets/dollar.png</file>
+    <file>assets/CurrencyConverterBlack.png</file>
+    <file>assets/CurrencyConverterWhite.png</file>
+    <file>assets/SuggestionsWhite.png</file>
+    <file>assets/closeButton.png</file>
+    <file>assets/CurrencyConverterBlack.png</file>
+    <file>assets/CurrencyConverterWhite.png</file>
+    <file>assets/SuggestionsBlack.png</file>
+    <file>assets/icon.png</file>
+    <file>assets/CurrencyRateChartsWhite.png</file>
+    <file>assets/MainWindowLogo.png</file>
+    <file>assets/CurrencyRateChartsBlack.png</file>
+    <file>assets/menuButton.png</file>
+    <file>assets/minimizeButton.png</file>
+    <file>assets/restoreButton.png</file>
+    <file>assets/restoreButtonMaximize.png</file>
+  </qresource>
+</RCC>
